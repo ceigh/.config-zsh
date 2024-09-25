@@ -7,6 +7,7 @@
 # Plugins
 source $ZPLUG_HOME/init.zsh
 zplug "jeffreytse/zsh-vi-mode"
+zplug "zsh-users/zsh-autosuggestions"
 # if ! zplug check; then; zplug install; fi
 zplug load
 
